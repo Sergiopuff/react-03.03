@@ -1,9 +1,0 @@
-ul {
-    display: flex;
-    flex-flow: column nowrap;
-    border: 1px solid gray;
-    border-radius: 5px;
-    padding: 20px;
-    background-color: slategrey;
-    margin: 0 0 20px 0;
-}

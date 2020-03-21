@@ -1,7 +1,0 @@
-.MessageList {
-    height: 300px;
-    overflow-y: scroll;
-    padding: 20px;
-    display: flex;
-    flex-direction: column;
-}

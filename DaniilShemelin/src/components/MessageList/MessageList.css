@@ -1,9 +1,0 @@
-.message__wrapper {
-  padding: 30px 15px;
-  max-width: 1000px;
-  width: 100%;
-  margin: 0 auto 20px auto;
-  display: flex;
-  background: #fafafa;
-  flex-direction: column;
-}
